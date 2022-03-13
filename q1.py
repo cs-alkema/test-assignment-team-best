@@ -1,2 +1,2 @@
 def add_two(a, b):
-    return 0
+    return a+b
